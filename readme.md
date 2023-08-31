@@ -29,4 +29,4 @@ This script demonstrates the generation of URLs in a brute-force manner. It's a 
 ## Note
 Please ensure you have proper authorization before testing on any platform or service. Unauthorized use can result in legal action and banning from platforms.
 
-![rocketgod_logo](https://github.com/RocketGod-git/screenshot-stealer/assets/57732082/b494fcab-819a-4e47-ae5c-ac94f985cb3e)
+![rocketgod_logo](https://github.com/RocketGod-git/screenshot-stealer/assets/57732082/35fd7604-eee4-4e77-bd0d-d16c71b33ef7)
